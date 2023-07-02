@@ -1,22 +1,16 @@
 {
   "files": {
-    "main.css": "/scienceplanet/static/css/main.868f2795.css",
-    "main.js": "/scienceplanet/static/js/main.f4148df5.js",
+    "main.css": "/scienceplanet/static/css/main.073c9b0a.css",
+    "main.js": "/scienceplanet/static/js/main.adbda04c.js",
     "static/js/787.f7c32208.chunk.js": "/scienceplanet/static/js/787.f7c32208.chunk.js",
-    "static/media/homeimg1.jpg": "/scienceplanet/static/media/homeimg1.42adc4cb1c109ba6cb8c.jpg",
-    "static/media/homeimg6.jpg": "/scienceplanet/static/media/homeimg6.6e8bedba69887c2c2e3e.jpg",
-    "static/media/homeimg3.jpg": "/scienceplanet/static/media/homeimg3.d1fac1520f1f8bbe8670.jpg",
-    "static/media/homeimg2.jpg": "/scienceplanet/static/media/homeimg2.ae5e512ac5aa45adc816.jpg",
-    "static/media/homeimg4.jpg": "/scienceplanet/static/media/homeimg4.34c54acb2e1d03505a0c.jpg",
-    "static/media/homeimg5.jpg": "/scienceplanet/static/media/homeimg5.3642aa9c9968c75a78f5.jpg",
     "static/media/logo.svg": "/scienceplanet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/scienceplanet/index.html",
-    "main.868f2795.css.map": "/scienceplanet/static/css/main.868f2795.css.map",
-    "main.f4148df5.js.map": "/scienceplanet/static/js/main.f4148df5.js.map",
+    "main.073c9b0a.css.map": "/scienceplanet/static/css/main.073c9b0a.css.map",
+    "main.adbda04c.js.map": "/scienceplanet/static/js/main.adbda04c.js.map",
     "787.f7c32208.chunk.js.map": "/scienceplanet/static/js/787.f7c32208.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.868f2795.css",
-    "static/js/main.f4148df5.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.adbda04c.js"
   ]
 }
