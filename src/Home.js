@@ -40,7 +40,7 @@ function Home() {
   return (
     <div>
       <PageHeader />
-
+      <br/>
       <Container>
         <Row>
       
@@ -67,7 +67,7 @@ function Home() {
           
         </Row>
       </Container>
-      
+      <br/>
       <PageFooter />
      </div>
   );

@@ -4,16 +4,20 @@ import Col from 'react-bootstrap/Col';
 
 function PageFooterInfo() {
   return (
-    <Container>
+    <Container fluid style={{
+          backgroundColor: '#deded5', textAlign: 'left'
+        }}>
       <Row>
         <Col>
-          <p><b>CareerJump</b></p>
-          <p>We offer a comprehensive range of services aimed at enhancing your interview skills, 
-          group discussion abilities, aptitude test performance, and overall personality development.</p>
+          <p><b>SciPlanet</b></p>
+          <p>We offer various scientific laboratories to learn equipments and experiments. 
+            We also take sample and perform requested analysis of this. You can also use our
+            facilities on your own.</p>
         </Col>
         <Col>
-          <p><b>Address</b></p>   
+          <p><b>contact</b></p>   
           <p>Unit-2, 2445 Clover Street. <br/>Ottawa</p>
+          <p>Email : sciplanet@gmail.com</p>
         </Col>
         <Col>
           <p><b>opening hours</b></p>
@@ -29,7 +33,7 @@ function PageFooterDown() {
             <div class="row">
                 <div class="col">
                   <div class="footer-down">
-                    <p align="center">© 2023 Copyright: Saad Rahman Warsi</p>
+                    <p align="center">© 2023 Copyright: </p>
                   </div>
                 </div>
             </div>
@@ -40,10 +44,8 @@ function PageFooterDown() {
 function PageFooter() {
   return (
     <footer>
-        <hr/>
         <PageFooterInfo />
         <PageFooterDown />
-
     </footer>
 
   );

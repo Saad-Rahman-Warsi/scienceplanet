@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import AppRouter from './AppRouter.js'
+import Home from './Home.js';
 
 function App() {
   
   return (
     <div className="App">
-      <AppRouter />
+      <Home />
     </div>
   );
 }
